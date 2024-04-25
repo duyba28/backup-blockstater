@@ -1,0 +1,2 @@
+class ProjectSubmission < ApplicationRecord
+end
